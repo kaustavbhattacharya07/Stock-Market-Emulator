@@ -1,0 +1,12 @@
+cs50
+Flask
+Flask-Session
+bokeh
+pygal
+numpy
+sklearn
+gunicorn
+pdfkit
+apscheduler
+psycopg2
+psycopg2-binary
